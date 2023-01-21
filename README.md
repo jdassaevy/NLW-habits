@@ -22,6 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um site que serve para rastrear seus hábitos.
 
+[Visite o projeto online.](https://jdassaevy.github.io/NLW-habits/)
+
 - [Acesse o projeto finalizado, online](https://github.com/jdassaevy/NLW-habits)
 
 Você pode vizualizar o layout do projeto através
